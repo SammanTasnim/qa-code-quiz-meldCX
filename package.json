@@ -12,13 +12,14 @@
     "test:unit": "jest"
   },
   "author": "",
-  "license": "",
+  "license": "ISC",
   "dependencies": {
     "@mdi/font": "^4.1.95",
     "@mdi/js": "^4.1.95",
     "@mdi/react": "^1.2.1",
     "@meldcx/agent": "1.0.31",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
+    "formidable": "^3.5.4",
     "howler": "^2.1.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -50,5 +51,15 @@
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SammanTasnim/qa-code-quiz-meldCX.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SammanTasnim/qa-code-quiz-meldCX/issues"
+  },
+  "homepage": "https://github.com/SammanTasnim/qa-code-quiz-meldCX#readme"
 }
